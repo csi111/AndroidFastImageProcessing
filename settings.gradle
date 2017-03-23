@@ -1,0 +1,6 @@
+include ':FastImageProcessing', ':AllFiltersExample', ':GenericFilterExample', ':TwoInputFilterExample', ':VideoToImageExample'
+project(':FastImageProcessing').projectDir = new File('framework/FastImageProcessing')
+project(':AllFiltersExample').projectDir = new File('examples/AllFiltersExample')
+project(':GenericFilterExample').projectDir = new File('examples/GenericFilterExample')
+project(':TwoInputFilterExample').projectDir = new File('examples/TwoInputFilterExample')
+project(':VideoToImageExample').projectDir = new File('examples/VideoToImageExample')

@@ -15,6 +15,13 @@ local.properties
 .classpath
 .settings/
 .loadpath
+.idea
+AndroidFastImageProcessing.iml
+.gradle
+gradle
+gradlew
+gradlew.bat
+.gitattributes
 
 # External tool builders
 .externalToolBuilders/
